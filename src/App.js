@@ -17,7 +17,7 @@ function App() {
         >
           Learn React
         </a>
-        <h1> Hello from AI/Big Data Project </h1>
+        <h1> Hello from AI/Big Data Project v2 </h1>
       </header>      
     </div>
   );
