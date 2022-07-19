@@ -17,9 +17,12 @@ function App() {
         >
           Learn React
         </a>
-      </header>
+        <h1> Hello from AI/Big Data Project </h1>
+      </header>      
     </div>
   );
 }
 
 export default App;
+
+
