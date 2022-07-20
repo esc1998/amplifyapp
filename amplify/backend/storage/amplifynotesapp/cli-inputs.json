@@ -1,0 +1,14 @@
+{
+  "resourceName": "amplifynotesapp",
+  "policyUUID": "74bc1b2a",
+  "bucketName": "amplify",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}
